@@ -40,3 +40,8 @@ X Y 0.07500000000000001 0.2652
 X Z 0.0999999999999999 0.1082
 Y Z 0.024999999999999883 0.8842
 ```
+
+
+# Note
+
+I referred to [Discpower](http://research.nii.ac.jp/ntcir/tools/discpower-en.html) when implementing this package.
